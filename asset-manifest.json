@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Travel-List.git/static/css/main.708779c1.css",
-    "main.js": "/Travel-List.git/static/js/main.46eb3b26.js",
-    "index.html": "/Travel-List.git/index.html",
-    "main.708779c1.css.map": "/Travel-List.git/static/css/main.708779c1.css.map",
-    "main.46eb3b26.js.map": "/Travel-List.git/static/js/main.46eb3b26.js.map"
+    "main.css": "/Travel-List/static/css/main.708779c1.css",
+    "main.js": "/Travel-List/static/js/main.46eb3b26.js",
+    "index.html": "/Travel-List/index.html",
+    "main.708779c1.css.map": "/Travel-List/static/css/main.708779c1.css.map",
+    "main.46eb3b26.js.map": "/Travel-List/static/js/main.46eb3b26.js.map"
   },
   "entrypoints": [
     "static/css/main.708779c1.css",
